@@ -1,8 +1,8 @@
 ;;; more-evil-avil.el --- avy command baked with evil spirit
 
-(require 'cl-lib nil t)
-(require 'avy nil t)
-(require 'evil nil t)
+(require 'cl-lib)
+(require 'avy)
+(require 'evil)
 
 (defgroup more-evil-avy nil
   "Better evil functions for evil users"
